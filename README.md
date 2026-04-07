@@ -1,11 +1,11 @@
-R Programming Portfolio
+##R Programming Portfolio
 Author: Khushi Pandya
 Course: B.Sc. (Data Science)
 
-Description
+##Description
 This repository contains a collection of R scripts demonstrating data analysis, visualization, and statistical modeling. It serves as a portfolio of practical R programming exercises and projects, showcasing skills in handling datasets, applying statistical methods, and creating visual insights.
 
-Topics Covered
+##Topics Covered
 Basics of R: Data types, operators, variables
 
 Control Structures: Loops, conditionals (if, if-else, if...else if)
@@ -20,7 +20,7 @@ Data Import & Cleaning: Reading CSV, Excel, JSON, XML, and web data
 
 Statistical Analysis: Descriptive statistics, comparisons, and modeling
 
-Repository Contents
+##Repository Contents
 Some key scripts included:
 
 Daily_Step_Count_Comparison.R – Compare daily step counts
@@ -37,17 +37,17 @@ matrix.r, arrays.r, dataframes.r – Work with R data structures
 
 calculator.r – Simple arithmetic operations with user input
 
-Total Programs: 31
+##Total Programs: 31
 
-Requirements
+##Requirements
 R version: 4.0 or above
 
-Recommended packages:
+##Recommended packages:
 
 r
 install.packages(c("ggplot2", "dplyr", "tidyr", "readr"))
 
-Contributing
+##Contributing
 Contributions are welcome!
 
 Fork the repository
